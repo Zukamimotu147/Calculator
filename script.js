@@ -112,7 +112,7 @@ function performOperation() {
       break;
   }
 
-  currentValue = result.toFixed(2);
+  currentValue = result;
   previousValue = '';
   operator = '';
   exp = currentValue;
