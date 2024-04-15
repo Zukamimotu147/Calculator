@@ -8,4 +8,4 @@ Calculator Project from the Odin Project
 
 # link
 
-soon...
+(https://zukamimotu147.github.io/Calculator/)
