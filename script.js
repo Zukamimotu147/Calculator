@@ -137,6 +137,7 @@ function deletePreviousDigit() {
 function addDecimal() {
   if (!hasDecimal) {
     currentValue += '.';
+    exp += '.';
     hasDecimal = true;
   }
   updateDisplay(currentValue);
